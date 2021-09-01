@@ -1,0 +1,24 @@
+.env
+*.session-journal
+*.session
+build
+*.mp3
+*.webm
+*.webp
+*.mp4
+*.tgs
+/*.jpg
+/*.png
+/*.mp4
+*.log
+target/npmlist.json
+package-lock.json
+# Directories
+addons/
+__pycache__/
+venv/
+node_modules/
+glitch_me/
+.idea/
+.vscode/
+temp/

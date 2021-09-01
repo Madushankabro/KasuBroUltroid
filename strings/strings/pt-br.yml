@@ -1,0 +1,160 @@
+name: Portuguese
+natively: Português
+
+authors:
+  - R7Droid Revisão PT-BR(YukkiZx)
+
+# commons
+com_1: "`Processando...`"
+com_2: "`Procurando...`"
+
+# help
+help_1: "`{}` não é um plugin válido!"
+help_2: "O bot não respondeu à consulta em linha.\nConsidere `{}reiniciar`"
+help_3: "`Por favor, ative o modo inline para o seu bot em` @Botfather."
+
+# autopic
+autopic_1: "Ei, dê-me algum texto .."
+autopic_2: "Nenhum resultado encontrado para `{}`"
+autopic_3: "Tenho uma coleção `{}` relacionado à sua pesquisa !\nIniciando Autopic !"
+
+# inline
+inline_1: "[Sᴜᴘorte Uʟᴛʀᴏɪᴅ](t.me/ultroidsupport)\n\n**Menu De Ajuda {}.\n\nPʟᴜɢɪɴs ~ {}**"
+inline_2: "[Sᴜᴘorte Uʟᴛʀᴏɪᴅ](t.me/ultroidsupport)\n\n**Mᴇɴᴜ Dᴇ Ajuda {}.\n\nExtensões ~ {}**"
+inline_3: "[Sᴜᴘorte Uʟᴛʀᴏɪᴅ](t.me/ultroidsupport)\n\n**Mᴇɴᴜ Dᴇ Ajuda {}.\n\nExtensões ~ {}\n\nDefina **`.setredis Extensões para True`** e REINICIE PARA OBTER EXTENSÕES.**"
+inline_4: "** Bᴏᴛ De {}\n\nMenu Principal\n\nPʟᴜɢɪɴs ~ {}\nExtensões ~ {}\nTᴏᴛᴀʟ de Cᴏᴍᴀɴᴅos ~ {}**"
+inline_5: "**O Menu Foi Fechado**"
+
+# tagnotif
+tagnot_1: "{} mencionou você em {}\n\n```{}```\n\n[📨 Mensagem 📨]({})"
+tagnot_2: "{} respondeu sua mensagem em {}\n\n [📨 Mensagem 📨]({})"
+
+# whisper
+wspr_1: "@{} mensagem secreta para você.\nExclua sua mensagem após ler.\nOu a próxima mensagem não será atualizada."
+wspr_2: "Mensagem apagada"
+
+# afk
+afk_1: "`Não estou mais em Afk\n\nEsteve fora por ~ {}`"
+afk_2: "#AFK\nDefina o modo AFK para Falso.\nEstive AFK por `{}`"
+afk_3: "`Atualmente estou AFK.\nVisto pela última vez {} atrás.`\n\n**Reason:** `{}`"
+afk_4: "`Atualmente estou em AFK.\n\nVisto pela última vez {} atrás.`"
+afk_5: "`Ficando em AFK.`\n\n**Reason:** `{}`"
+afk_6: "Estou ficando AFK."
+afk_7: "Está AFK pelo motivo {}"
+afk_8: "Atualmente AFK."
+
+# bot
+alive_1: "**O Ultroid Userbot...**\n\n**{}**\n\n┏━━━━━━━━━━━━━━━━━━━━━\n┣ **Proprietário** - `{}`\n┣ **Versão** - `{}`\n┣ **Py-Ultroid** - `{}`\n┣ **Em Atividade** - `{}`\n┣ **Python** - `{}`\n┣ **Telethon** - `{}`\n┣ **Filial** - `{}`\n┗━━━━━━━━━━━━━━━━━━━━━"
+log: "**Heroku** Ultroid Logs.\nColado [aqui]({}) também!"
+ping: "**Pong !!** `{}ms`\n**Uptime** - `{}`"
+usage: "**⚙️ Uso Dyno ⚙️**:\n\n-> **Dyno usado por** `{}`:\n  •  **{}h**  **{}m** |** `[{}%]`\n-> **Dyno cota de horas restantes neste mês**:\n  •  **{}h**  **{}m |** `[{}%]`\n\n**Espaço Total em Disco**: `{}`\n**Usado**: `{}`\n**Livre**: `{}`\n\n**📊 Uso de Dados 📊\n**Upload**: `{}`\n**Down**: `{}`\n\n**CPU**: `{}%`\n**RAM**: `{}%`\n**DISCO**: `{}%`"
+shutdown: "Adeus {}.\n`Desligando...`"
+
+# broadcast
+bd_1: "`Adicionando ao bd...`"
+bd_2: "`Tentando adicionar todos os canais que é Admin ao banco de dados...`"
+bd_3: "**Feito.**\nChats no banco de dados: {}\nAdicionados recentemente: {}"
+bd_4: "Canais adicionados!"
+bd_5: "`Adicionado ao banco de dados!`"
+bd_6: "`Canal já existe no banco de dados!`"
+
+# carbon
+carbon_1: "Processando"
+carbon_2: "Carbonizado por [{}](tg://user?id={})"
+
+# chats
+chats_1: "`Processando...`"
+chats_2: "`Não é possível excluir esse chat`"
+chats_3: "`Eu não sou um Admin`"
+chats_4: "#Excluído\nExcluído {}"
+chats_5: "Tornou-se [{}]({}) chefe do Grupo!"
+chats_6: "Junte-se a @TeamUltroid"
+
+# converter
+cvt_1: "Responder a qualquer mídia/documento."
+cvt_2: "Dê o nome e a extensão do arquivo"
+cvt_3: "`Processando...`"
+cvt_4: "Responda a qualquer mídia."
+
+# core
+core_1: "Módulo encontrado"
+core_2: "{}.py use .paste para colar em neko e raw.."
+core_3: "Procurar novamente..?"
+core_4: "Módulo {} Encontrado"
+core_5: "{}.py use .paste para colar em neko e raw.."
+core_6: "Módulo {}.py Não Encontrado"
+core_7: "Módulo Inexistente"
+core_8: "Nenhum Módulo Nomeado {}.py"
+core_9: "`Informe o nome do plugin que você deseja descarregar`"
+core_10: "**Descarregado** `{}` **Sᴜᴄᴄᴇssғᴜʟʟʏ.**"
+core_11: "**Você Não Pode Descarregar Plugins Oficiais**"
+core_12: "**Nenhum Plugin Nomeado** `{}`"
+core_13: "`Give name of plugin which u want to uninstall`"
+core_14: "**Desinstalado** `{}` **Com Sucesso.**"
+core_15: "**Você Não Pode Desinstalar Plugins Oficiais**"
+core_16: "`Dê o nome do plugin que você deseja carregar`"
+core_17: "**Carregado Com Sucesso** `{}`"
+core_18: "**Não foi possível carregar** `{}` **por causa do seguinte erro.**\n`{}`"
+
+# fedutils
+sf_1: "Iniciando FedBan em massa..."
+sf_2: "`Nenhum usuário designado!`"
+sf_3: "Você não pode banir meu Dev, seu novato!!"
+sf_4: "`Parece que a rose não está respondendo ou o plugin está se comportando mal`"
+sf_5: "Você só pode usar comandos do fed uma vez a cada 5 minutos"
+sf_6: "Tente novamente após 5 minutos."
+sf_7: "Não foi possível coletar FedAdminList. Tentando novamente ({}/3)..."
+sf_8: "Erro"
+sf_9: "Impossível coletar FedAdminList."
+sf_10: "FBaning em {} feds."
+sf_11: "O ID do grupo FBan especificado está incorreto."
+sf_12: "{} Excluído."
+sf_13: "Erro ao remover arquivo FedAdmin.\n{}"
+sf_14: "SuperFBan concluído.\nFeds Totais - {}.\nExcluído - {}.\n Afetado {} feds.\n#TB"
+sf_15: "Iniciando Desban-Fed em massa..."
+sf_16: "SuperDesban-Fed Concluído.\nTotal Feds - {}.\nExcluído - {}.\n Afetado {} feds.\n#TB"
+sf_17: "`Informe a id de usuário, ou responda a mensagem de alguém para verificar seu/sua fedstat.`"
+sf_18: "Lista de feds {} foi banido em.\n\nColetados usando Ultroid."
+sf_19: "**Erro**\n `Desbloqueie` @MissRose_Bot `e tente novamente!"
+sf_20: "`Extraindo informações...`"
+sf_21: "\n\nFedInfo Extraído por Ultroid"
+
+# gdrive
+gdrive_1: "`Você já autorizou com o Google Drive`"
+gdrive_2: "Clique [aqui](https://console.developers.google.com/flows/enableapi?apiid=drive) e pegue o seu `GDRIVE_CLIENT_ID` e `GDRIVE_CLIENT_SECRET`\n\nMande seu GDRIVE_CLIENT_ID e GDRIVE_CLIENT_SECRET com isso.\n`GDRIVE_CLIENT_ID GDRIVE_CLIENT_SECRET` separado por espaço."
+gdrive_3: "`Id de cliente Errado`"
+gdrive_4: "`Algo deu errado! Envie `/auth` novamente.\nSe acontecer novamente entre em contato`@TheUltroid"
+gdrive_5: "`Successo!\nVocê está pronto para usar o Google Drive com Ultroid Userbot.`"
+gdrive_6: "`Ir para `{}` e envie ``/auth.`"
+gdrive_7: "**O upload do Arquivo No G-Drive foi bem Sucedido :**\n\n[{}]({})"
+
+# pmpermit
+pmperm_1: "Por favor espere até eu te responder ou você será reportado e bloqueado como spam!!"
+pmperm_2: "Você Esta Spamando O PV Do meu Mestre, o que você quer?\nVocê foi BLOQUEADO e denunciado como SPAM, até novo aviso."
+pmperm_3: "Responda à mensagem de alguém ou use esse comando no privado."
+
+# updater
+upd_1: "`Verificando Atualizações, por favor aguarde....`"
+upd_2: "`Oops.. O Atualizador não pode Continuar Devido a alguns Problemas.`\n\n**LOGTRACE:**\n"
+upd_3: "**Nova Atualizaçao Disponivel Para [[{}]]({}/tree/{}):\n\nLOGMUDANÇAS**\n\n{}"
+upd_4: "`Logregistro é muito grande, veja o arquivo para checar isso.`"
+upd_5: "Clique no botão abaixo para atualizar."
+upd_6: "Clique no botão abaixo para atualizar."
+upd_7: "\n`Seu Bot está`  **atualizado**  `with`  **[[{}]]({}/tree/{})**\n"
+
+# upload download
+udl_1: "`Responda ao arquivo/mídia que deseja baixar...`"
+udl_2: "Download Concluído..\nTo\n`{}`\nin `{}`"
+udl_3: "`Forneça um caminho específico para o arquivo`"
+
+# words
+wrd_1: "**Palavra** - `{}`\n\n**Significados** - \n"
+wrd_2: "**Palavra** - `{}`\n\n**Sinônimos** - \n"
+wrd_3: "**Palavra** - `{}`\n\n**Antônimos** - \n"
+
+# ---------------------------------------------------#
+
+# assisant
+ast_1: "Escolha qual API você deseja utilizar."
+ast_2: "**remove.bg API**\nInsira sua chave API de remove.bg.\n\nUse /cancel para encerrar a operação."
+ast_3: "Hey {}. Por favor, navegue pelas opções"
